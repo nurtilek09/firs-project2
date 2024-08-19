@@ -1,0 +1,32 @@
+.nur {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid blue;
+    box-shadow: 0px 12px 16px blueviolet;
+    background-color: blue;
+    text-align: center;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size: 20px;
+    
+}
+.nur:hover{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid blue;
+    box-shadow: 0px 12px 16px blue;
+    background-color: blueviolet;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    font-size: 20px;
+    
+}
